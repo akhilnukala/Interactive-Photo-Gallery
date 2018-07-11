@@ -1,4 +1,4 @@
-#Interactive-Photo-Gallery
+# Interactive-Photo-Gallery
 
 Built an interactive searchable online photo gallery using HTML, CSS, JavaScript and jQuery, jQuery Plugins
 
