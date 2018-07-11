@@ -1,6 +1,6 @@
 # Interactive-Photo-Gallery
 
-Built an interactive searchable online photo gallery using HTML, CSS, JavaScript and jQuery, jQuery Plugins
+Built an interactive searchable online photo gallery using HTML, CSS, JavaScript and jQuery, jQuery Plugins such as lightbox and hideseek.
 
 At the top of the page you'll have a search area where photos will hide and show depending on user input. 
 
